@@ -86,13 +86,13 @@ To train the GAN, expand the `POST /train` endpoint, click "Try it out", and upl
 
 After successful execution, you'll receive a confirmation:
 
-![FastAPI Train Endpoint Output](C:\Users\khush\OneDrive\Pictures\Generate1.png)
+![FastAPI Train Endpoint Output](Generate1.png)
 
 ### 3. Generate Data
 
 After the model is trained, you can generate new synthetic data. Expand the `GET /generate` endpoint, click "Try it out", and specify the number of samples (e.g., 100).
 
-![FastAPI Generate Endpoint Input](C:\Users\khush\OneDrive\Pictures\Generate2.png)
+![FastAPI Generate Endpoint Input](Generate2.png)
 
 
 
