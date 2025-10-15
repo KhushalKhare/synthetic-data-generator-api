@@ -76,13 +76,13 @@ Once the server is running, use the `/docs` page to interact with the API.
 
 Here's how the interactive API documentation looks when you first open it:
 
-![FastAPI Docs Initial View](C:\Users\khush\OneDrive\Pictures\Get1.png)
+![FastAPI Docs Initial View](Get1.png)
 
 ### 2. Train the Model
 
 To train the GAN, expand the `POST /train` endpoint, click "Try it out", and upload your **numeric-only** CSV file (e.g., `sample_data.csv`).
 
-![FastAPI Train Endpoint Input](C:\Users\khush\OneDrive\Pictures\Get2.png)
+![FastAPI Train Endpoint Input](Get2.png)
 
 After successful execution, you'll receive a confirmation:
 
